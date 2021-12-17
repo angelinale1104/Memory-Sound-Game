@@ -7,6 +7,7 @@ Submitted by: Angelina Le
 Time spent: 3.5 hours spent in total
 
 Link to project (can be edit): https://glitch.com/edit/#!/full-scrawny-jasper?path=script.js%3A1%3A0
+
 Link to website: https://full-scrawny-jasper.glitch.me
 
 ## Required Functionality
